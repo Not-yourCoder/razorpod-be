@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# Common
+.env
+.DS_Store
